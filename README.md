@@ -36,4 +36,11 @@ Traditional PDF tracking provides limited insights. Sizle delivers:
 - Webhook support for real-time updates
 - Team collaboration features
 
-## Getting Started
+## Why Choose Sizle?
+
+- **No infrastructure maintenance**
+- **Instant global scalability**
+- **Built-in compliance and security**
+- **Professional client experience**
+
+**[→ Start Your Free Trial](https://sizle.io)**
