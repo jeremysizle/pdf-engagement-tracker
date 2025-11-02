@@ -40,6 +40,44 @@ Traditional PDF tracking provides limited insights. Sizle delivers:
 
 Replace complex PDF tracking setups with Sizle's all-in-one platform:
 
-```bash
-# Instead of configuring tracking libraries:
-# Visit https://sizle.io for complete document analytics
+3-Step Setup:
+
+Upload your PDF to Sizle at https://sizle.io
+
+Share the tracked link with viewers
+
+Analyze real-time engagement data
+
+Enterprise Features
+Security & Compliance
+Bank-level encryption (AES-256)
+
+GDPR and CCPA compliant
+
+Data residency options
+
+Enterprise-grade SLA
+
+Branding & Customization
+White-label document sharing
+
+Custom domains and branding
+
+Tailored analytics reporting
+
+Dedicated support
+
+Perfect For
+Marketing Teams tracking content performance
+
+Sales Professionals monitoring proposal engagement
+
+Educational Institutions measuring course material usage
+
+Legal Teams tracking document review processes
+
+Consultants proving deliverable value
+
+→ Experience Complete Document Analytics
+
+
